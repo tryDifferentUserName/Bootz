@@ -1,0 +1,62 @@
+[
+  {
+
+    "type": "Product",
+    "name": "Nike Air Jordan 1 Retro High OG 'Chicago'",
+    "image": "https://example.com/images/products/nike-air-jordan-1-retro-high-og-chicago.jpg",
+    "description": "The Nike Air Jordan 1 Retro High OG 'Chicago' is a classic shoe that has been popular for decades. It features a white leather upper with red and black accents, and a Nike Air sole.",
+    "price": 175.00,
+    "currency": "EUR",
+    "availability": "InStock",
+    "brand": "Nike",
+    "gtin13": "0192761174432"
+  },
+  {
+
+    "type": "Product",
+    "name": "Adidas Yeezy Boost 350 V2 'Zebra'",
+    "image": "https://example.com/images/products/adidas-yeezy-boost-350-v2-zebra.jpg",
+    "description": "The Adidas Yeezy Boost 350 V2 'Zebra' is a popular sneaker that features a Primeknit upper with a zebra-like pattern. It also has a Boost sole for cushioning and comfort.",
+    "price": 220.00,
+    "currency": "EUR",
+    "availability": "InStock",
+    "brand": "Adidas",
+    "gtin13": "0194385102345"
+  },
+  {
+   
+    "type": "Product",
+    "name": "New Balance 550 'White'",
+    "image": "https://example.com/images/products/new-balance-550-white.jpg",
+    "description": "The New Balance 550 'White' is a classic sneaker that features a white leather upper with a navy blue and silver N logo. It also has a rubber sole for traction and durability.",
+    "price": 110.00,
+    "currency": "EUR",
+    "availability": "InStock",
+    "brand": "New Balance",
+    "gtin13": "0190606912345"
+  },
+  {
+
+    "type": "Product",
+    "name": "Converse Chuck Taylor All-Stars 'White'",
+    "image": "https://example.com/images/products/converse-chuck-taylor-all-stars-white.jpg",
+    "description": "The Converse Chuck Taylor All-Stars 'White' is a classic sneaker that features a white canvas upper with a black rubber toe cap and sole. It is a versatile shoe that can be worn with a variety of outfits.",
+    "price": 55.00,
+    "currency": "EUR",
+    "availability": "InStock",
+    "brand": "Converse",
+    "gtin13": "0194145123456"
+  },
+  {
+ 
+    "type": "Product",
+    "name": "Vans Authentic 'Black'",
+    "image": "https://example.com/images/products/vans-authentic-black.jpg",
+    "description": "The Vans Authentic 'Black' is a classic sneaker that features a black canvas upper with a white rubber sole. It is a versatile shoe that can be worn with a variety of outfits.",
+    "price": 50.00,
+    "currency": "EUR",
+    "availability": "InStock",
+    "brand": "Vans",
+    "gtin13": "0194234123457"
+  }
+]
