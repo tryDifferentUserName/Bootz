@@ -1,14 +1,24 @@
 import './assets/main.css'
-
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
-
+import {getJson} from '@/services/getJson.js'
+import {ProductsStore} from "@/stores/products.js"
 import App from './App.vue'
 import router from './router'
 
 const app = createApp(App)
-
-app.use(createPinia())
 app.use(router)
+app.use(createPinia())
+
+const products = ProductsStore()
+
+console.log(products)
+
+getJson((data) => {
+	products.products = data;
+}, 'products')
+
+app.provide('products', products)
+
 
 app.mount('#app')
