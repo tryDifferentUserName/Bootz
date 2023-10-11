@@ -1,49 +1,15 @@
 [
   {
-
-    "type": "Product",
-    "name": "Nike Air Jordan 1 Retro High OG 'Chicago'",
-    "image": "@/assets/images/image-product-1.jpg",
-    "description": "The Nike Air Jordan 1 Retro High OG 'Chicago' is a classic shoe that has been popular for decades. It features a white leather upper with red and black accents, and a Nike Air sole.",
-    "price": 175.00,
-    "currency": "EUR",
-    "availability": "InStock",
-    "brand": "Nike",
-    "gtin13": "0192761174432"
-  },
-  {
-
-    "type": "Product",
-    "name": "Adidas Yeezy Boost 350 V2 'Zebra'",
-    "image": "@/assets/images/image-product-2.jpg",
-    "description": "The Adidas Yeezy Boost 350 V2 'Zebra' is a popular sneaker that features a Primeknit upper with a zebra-like pattern. It also has a Boost sole for cushioning and comfort.",
-    "price": 220.00,
-    "currency": "EUR",
-    "availability": "InStock",
-    "brand": "Adidas",
-    "gtin13": "0194385102345"
-  },
-  {
-   
-    "type": "Product",
-    "name": "New Balance 550 'White'",
-    "image": "@/assets/images/image-product-3.jpg",
-    "description": "The New Balance 550 'White' is a classic sneaker that features a white leather upper with a navy blue and silver N logo. It also has a rubber sole for traction and durability.",
-    "price": 110.00,
-    "currency": "EUR",
-    "availability": "InStock",
-    "brand": "New Balance",
-    "gtin13": "0190606912345"
-  },
-  {
-
     "type": "Product",
     "name": "Converse Chuck Taylor All-Stars 'White'",
-    "image": "@/assets/images/image-product-4.jpg",
+    "image1": "@/assets/images/image-product-1.jpg",
+    "image2": "@/assets/images/image-product-2.jpg",
+    "image3": "@/assets/images/image-product-3.jpg",
+    "image4": "@/assets/images/image-product-4.jpg",
     "description": "The Converse Chuck Taylor All-Stars 'White' is a classic sneaker that features a white canvas upper with a black rubber toe cap and sole. It is a versatile shoe that can be worn with a variety of outfits.",
-    "price": 55.00,
-    "currency": "EUR",
-    "availability": "InStock",
+    "price": 125.00,
+    "currency": "$",
+    "discount": "50%",
     "brand": "Converse",
     "gtin13": "0194145123456"
   }
