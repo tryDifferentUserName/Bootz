@@ -8,8 +8,13 @@
 <style>
 .img-carousel-button {
   all: unset;
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   cursor: pointer;
-  transition: scale 100ms ease-in-out;
+  background-color: var(--clr-white);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
 }
 </style>

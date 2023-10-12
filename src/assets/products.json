@@ -2,14 +2,16 @@
   {
     "type": "Product",
     "name": "Converse Chuck Taylor All-Stars 'White'",
-    "image1": "src/assets/images/image-product-1.jpg",
-    "image2": "src/assets/images/image-product-2.jpg",
-    "image3": "src/assets/images/image-product-3.jpg",
-    "image4": "src/assets/images/image-product-4.jpg",
     "description": "The Converse Chuck Taylor All-Stars 'White' is a classic sneaker that features a white canvas upper with a black rubber toe cap and sole. It is a versatile shoe that can be worn with a variety of outfits.",
     "price": 125.00,
     "currency": "$",
     "discount": "50%",
+    "images":[
+      {"src":"src/assets/images/image-product-1.jpg", "alt":""},
+      {"src":"src/assets/images/image-product-2.jpg", "alt":""},
+      {"src":"src/assets/images/image-product-3.jpg", "alt":""},
+      {"src":"src/assets/images/image-product-4.jpg", "alt":""}
+    ],
     "brand": "Converse",
     "gtin13": "0194145123456"
   }

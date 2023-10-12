@@ -12,8 +12,6 @@ app.use(createPinia())
 
 const products = ProductsStore()
 
-console.log(products)
-
 getJson((data) => {
 	products.products = data;
 }, 'products')
